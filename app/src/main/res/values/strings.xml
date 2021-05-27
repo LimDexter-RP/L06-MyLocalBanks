@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">L06-MyLocalBanks</string>
+    <string name="dbs">DBS</string>
+    <string name="ocbc">OCBC</string>
+    <string name="uob">UOB</string>
+    <string name="tel">tel:</string>
+    <string name="Tel">tel: 18001111111</string>
+    <string name="ocbc1">https://www.ocbc.com</string>
+    <string name="dbs1">https://www.dbs.com.sg</string>
+    <string name="ocbcTel">tel: 18003633333</string>
+    <string name="uob1">https://www.uob.com.sg</string>
+    <string name="uob2">tel: 18002222121</string>
+</resources>
