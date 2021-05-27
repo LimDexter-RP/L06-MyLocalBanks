@@ -10,4 +10,11 @@
     <string name="ocbcTel">tel: 18003633333</string>
     <string name="uob1">https://www.uob.com.sg</string>
     <string name="uob2">tel: 18002222121</string>
+    <string name="dbsC">星展银行</string>
+    <string name="ocbcC">华侨银行</string>
+    <string name="uobC">大华银行</string>
+    <string name="error">Error translation</string>
+    <string name="dbsE">DBS</string>
+    <string name="ocbcE">OCBC</string>
+    <string name="uobE">UOB</string>
 </resources>

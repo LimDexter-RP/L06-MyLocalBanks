@@ -8,4 +8,9 @@
         android:id="@+id/CallSelection"
         android:orderInCategory="101"
         android:title="Contact The Bank" />
+
+    <item
+        android:id="@+id/FavSelection"
+        android:orderInCategory="101"
+        android:title="Favourite The Bank" />
 </menu>
